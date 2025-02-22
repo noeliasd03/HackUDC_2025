@@ -9,7 +9,8 @@
     font-size: 50px;     /* Ajusta el tamaño del texto */
     font-weight: bold;   /* Hace el texto en negrita */
     color: #D3973A; /* Cambia el color del texto */
-  }
+    font-family: 'Times New Roman' serif;
+}
 /*botons 'wealthanalitics e chatbot*/
 button  {
     color:#D3973A;
@@ -34,7 +35,7 @@ button  {
   div.form > div{
     background-color: rgb(37,37,37);
   }
-/*enter text e flipped text*/
+/*enter text e flipped text*/ 
   textarea.svelte-173056l {
     background-color: black;  /* Fondo negro */
     color: #D3973A;           /* Texto dorado */
@@ -64,3 +65,7 @@ button.lg.secondary.svelte-1ixn6qd {
     
   }
  
+/* chatbox */
+.bubble-wrap.svelte-gjtrl6.svelte-gjtrl6{
+    background-color: rgb(51, 49, 49) !important;
+}
