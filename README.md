@@ -3,11 +3,11 @@
 
 
 ## Descripción 📖
-Principalmente, hemos creado un chatbot basado en LLM (Gemini 1.5) que responda en base a un dataset sobre economía global en el año 2021. 
+Principalmente, hemos creado un chatbot basado en un LLM (Gemini 1.5) que responde en base a un dataset sobre economía global en el año 2021. 
 
-Como añadido, hemos incluído una serie gráficas que nos permitan comprender mejor los datos de los que disponemos.
+Como añadido, hemos incluído una serie gráficas que nos permiten comprender mejor los datos de los que disponemos.
 
-El objetivo será crear esto integrando la herramientas de trabajo de Denodo.
+El objetivo ha sido crear esto implementando las herramientas de trabajo de DenodoPlatform, empresa para la que hemos elegido el proyecto.
 
 <!-- <img src="https://media.licdn.com/dms/image/v2/C4D0BAQF5UWSiPzwwqw/company-logo_200_200/company-logo_200_200/0/1630541945157/denodo_technologies_logo?e=1748476800&v=beta&t=vC6GNejzp3qAWaTVcCQyyKd_Mb-AY3gUuF5WlcPtnRU" alt="Denodo image" width="50" height=auto> -->
 
@@ -39,7 +39,7 @@ El objetivo será crear esto integrando la herramientas de trabajo de Denodo.
 
 
 ## Equipo 👥
-Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos realizado juntos durante estas 36 horas
+Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos realizado juntos durante estas 36 horas:)
   - Noelia Sánchez
   - Javi Esmorís
   - Celia Incera
