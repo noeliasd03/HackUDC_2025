@@ -1,3 +1,66 @@
-button  {
-    color:red
+/*fondo*/
+.gradio-container{
+    background-color: black;
+
 }
+/*titulo*/
+p {
+    text-align: center; /* Centra el texto */
+    font-size: 50px;     /* Ajusta el tamaño del texto */
+    font-weight: bold;   /* Hace el texto en negrita */
+    color: #D3973A; /* Cambia el color del texto */
+  }
+/*botons 'wealthanalitics e chatbot*/
+button  {
+    color:#D3973A;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    outline: none; 
+}
+
+.selected::after {
+    background-color: #85C4E8; 
+  }
+/*fondo logo*/
+  .image-container {
+    background-color: black;
+  }
+/*formularios*/
+  div.form{
+    border:solid black;
+    border-radius:5px;
+  }
+  div.form > div{
+    background-color: rgb(37,37,37);
+  }
+/*enter text e flipped text*/
+  textarea.svelte-173056l {
+    background-color: black;  /* Fondo negro */
+    color: #D3973A;           /* Texto dorado */
+    border: 2px solid grey;   /* Borde gris */
+    border-radius: 5px;       /* Bordes redondeados */
+    padding: 10px;            /* Espaciado interno */
+    font-size: 16px;          /* Tamaño del texto */
+}
+/*boton flip*/
+button.lg.secondary.svelte-1ixn6qd {
+    background-color:rgb(51, 49, 49) !important;
+    color: #D3973A !important;
+    font-size: 16px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+/*boton chat*/
+  button.md.primary.svelte-1ixn6qd{
+    background-color:rgb(51, 49, 49);
+    color: #D3973A;
+    font-size: 16px;
+    font-weight: bold;
+    
+  }
+ 
