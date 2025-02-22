@@ -1,5 +1,8 @@
 import pandas as pd
 
+# Para el procesado de los dataasets deberán ser descargados a través de los enlaces incluídos en el README.md
+# Posteriormente hay que introducirlos en la carpeta 'original'  
+
 cost_living=pd.read_csv('datasets/original/cost_of_living.csv')
 gpd=pd.read_csv('datasets/original/countries_gdp_hist.csv', delimiter=';')
 richest=pd.read_csv('datasets/original/richest500.csv', delimiter=';')
