@@ -46,3 +46,4 @@ Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos reali
   - Inés Poses
 
 ## Licencia
+Este proyecto está licenciado bajo la **GNU General Public License (GPL)**, lo que permite a cualquier persona usar, modificar y distribuir el código, siempre que se mantenga la misma licencia. Asegura la libertad de compartir y mejorar el software para todos.
