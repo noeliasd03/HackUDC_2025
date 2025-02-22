@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+
+
+h1 {
+  font-family: 'Protest Guerrilla';
+  color: #D3973A;
+  font-size: 50px;
+}
+
+
 /*fondo*/
 .gradio-container{
     background-color: black;
@@ -20,8 +30,13 @@ button  {
     outline: none; 
 }
 
+.tab-container button:hover {
+  background-color: transparent !important;
+
+}
+
 .selected::after {
-    background-color: #85C4E8; 
+    background-color: rgb(56, 55, 55); 
   }
 /*fondo logo*/
   .image-container {
@@ -38,12 +53,13 @@ button  {
 /*enter text e flipped text*/ 
   textarea.svelte-173056l {
     background-color: black;  /* Fondo negro */
-    color: #D3973A;           /* Texto dorado */
+    color: #fff;           /*Texto dorado*/
     border: 2px solid grey;   /* Borde gris */
     border-radius: 5px;       /* Bordes redondeados */
     padding: 10px;            /* Espaciado interno */
     font-size: 16px;          /* Tamaño del texto */
 }
+
 /*boton flip*/
 button.lg.secondary.svelte-1ixn6qd {
     background-color:rgb(51, 49, 49) !important;
@@ -69,3 +85,13 @@ button.lg.secondary.svelte-1ixn6qd {
 .bubble-wrap.svelte-gjtrl6.svelte-gjtrl6{
     background-color: rgb(51, 49, 49) !important;
 }
+
+
+.block.svelte-11xb1hd {
+  border:0px !important;
+}
+
+#component-2357 {
+  border:0px !important;
+}
+
