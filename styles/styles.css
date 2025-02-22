@@ -7,6 +7,15 @@ h1 {
   font-size: 50px;
 }
 
+.table-wrap.svelte-p5q82i {
+  border: 0px;
+}
+
+.table-wrap.svelte-p5q82i tr td{
+  background-color: rgb(51, 49, 49) !important;
+  border-radius: 4px;
+  color:white;
+}
 
 /*fondo*/
 .gradio-container{
@@ -95,3 +104,16 @@ button.lg.secondary.svelte-1ixn6qd {
   border:0px !important;
 }
 
+div.svelte-1nguped {
+  border:0px;
+}
+
+.bot.svelte-pcjl1g.svelte-pcjl1g {
+  background-color: rgb(129, 125, 125);
+  border:0px;
+}
+
+.user.svelte-pcjl1g.svelte-pcjl1g  {
+  background-color: #EBC580;
+  border:0px;
+}
