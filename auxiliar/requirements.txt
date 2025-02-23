@@ -1,6 +1,5 @@
 
-gradio
+gradio==5.17.1
 requests
-#gTTS
 numpy
 pandas
