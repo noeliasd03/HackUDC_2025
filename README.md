@@ -45,10 +45,10 @@ El objetivo ha sido crear esto implementando las herramientas de trabajo de Deno
 ## Equipo 👥
 Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos realizado juntos durante estas 36 horas :)
 
-- **Noelia Sánchez**: [noeliasd03@gmail.com](mailto:noeliasd03@gmail.com)
-- **Javier Esmorís**: [javier.eb@protonmail.com](mailto:javier.eb@protonmail.com)
-- **Celia Incera**: [celiaincera27@gmail.com](mailto:celiaincera27@gmail.com)
-- **Inés Poses**: [LinkedIn](https://www.linkedin.com/in/in%C3%A9s-poses-gonz%C3%A1lez-73a80a299/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Noelia Sánchez** - [LinkedIn](https://www.linkedin.com/in/noelia-sanchez-dominguez)
+- **Javier Esmorís** - [LinkedIn](https://www.linkedin.com/in/javier-eb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Celia Incera** - [LinkedIn](https://www.linkedin.com/in/celia-incera-alonso-b45b9a2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **Inés Poses** - [LinkedIn](https://www.linkedin.com/in/in%C3%A9s-poses-gonz%C3%A1lez-73a80a299/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ## Licencia
