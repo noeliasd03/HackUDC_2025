@@ -12,8 +12,8 @@ El objetivo ha sido crear esto implementando las herramientas de trabajo de Deno
 <!-- <img src="https://media.licdn.com/dms/image/v2/C4D0BAQF5UWSiPzwwqw/company-logo_200_200/company-logo_200_200/0/1630541945157/denodo_technologies_logo?e=1748476800&v=beta&t=vC6GNejzp3qAWaTVcCQyyKd_Mb-AY3gUuF5WlcPtnRU" alt="Denodo image" width="50" height=auto> -->
 
 ## Tecnologías 🛠️
-  - **Denodo Catalog**. Permite de una forma sencilla gestionar los datos proporcionados para que fuentes como AI SDK los puedan utilizar.
   - **Denodo Studio**. Nos permite crear bases de datos en base a los datasets, además de las relaciones entre bases de datos. Las relaciones son útiles para el LLM a la hora de hacer inferencia en las respuestas.
+  - **Denodo Catalog**. Permite de una forma sencilla gestionar los datos proporcionados para que fuentes como AI SDK los puedan utilizar.
   - **Denodo AI SDK**. Esta herramienta proporciona agilidad a la hora de transformar los datos (embbedings, BD vectorial) y proporcionarlos al chatbot a través de una API. 
   - Integración Denodo con **Grafana**
   - **Gradio**. Biblioteca de Python para crear interfaces web interactivas y compartir modelos de machine learning fácilmente.
@@ -37,6 +37,9 @@ El objetivo ha sido crear esto implementando las herramientas de trabajo de Deno
     python ui_global_wealth.py
     ```
 
+## Demo 🖥️
+
+![Demo GIF](styles/demo.gif)
 
 ## Equipo 👥
 Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos realizado juntos durante estas 36 horas:)
