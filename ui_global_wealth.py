@@ -22,30 +22,25 @@ with gr.Blocks(title='WorldWealth', css=css, head="<link rel='icon' href='styles
     gr.Markdown(markdown_content)
 
     with gr.Tab("WealthANALYTICS"):
-        # text_input = gr.Textbox(label="Enter text")
-        # text_output = gr.Textbox(label="Flipped text")
-        text_button = gr.Button("Flip")
-        # text_button.click(flip_text, inputs=text_input, outputs=text_output)
+      grafana_iframe = """
+        <iframe src="http://localhost:3000/d-solo/eedvm7u2s854wa/10-mayores-fortunas?orgId=1&from=1740251347418&to=1740272947418&timezone=browser&panelId=1&__feature.dashboardSceneSolo" width="1400" height="400" frameborder="0"></iframe>        """
+      gr.HTML(grafana_iframe)
+
+      grafana_iframe2= """
+        <iframe src="http://localhost:3000/d-solo/bedvxj5e3qps0f/sectores-con-mayor-concentracion-de-riqueza?orgId=1&from=1740253439673&to=1740275039673&timezone=browser&panelId=1&__feature.dashboardSceneSolo" width="1400" height="400" frameborder="0"></iframe>        """
+      gr.HTML(grafana_iframe2)
+      grafana_iframe3= """
+            <iframe src="http://localhost:3000/d-solo/fedvwiy0837cwc/new-dashboard?orgId=1&from=1740252763306&to=1740274363306&timezone=browser&panelId=1&__feature.dashboardSceneSolo" width="1400" height="400" frameborder="0"></iframe>
+          """
+      gr.HTML(grafana_iframe3)
 
     with gr.Tab("WealthCHATBOT"):
 
         chat = gr.ChatInterface(
             askQuestion,
             type="messages",
-            save_history=True,
+            save_history=True
         )
-
-        # btn_audio=gr.Button('BotonAUDIO')
-        # btn_audio.click(text_to_speech)
-    # with gr.Accordion("Open for More!", open=False):
-    #     gr.Markdown("Look at me...")
-    #     temp_slider = gr.Slider(
-    #         0, 1,
-    #         value=0.1,
-    #         step=0.1,
-    #         interactive=True,
-    #         label="Slide me",
-    #     )
 
 if __name__ == "__main__":
     demo.launch(favicon_path='styles/logo.png')
