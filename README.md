@@ -48,7 +48,7 @@ Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos reali
 - **Noelia Sánchez**: [noeliasd03@gmail.com](mailto:noeliasd03@gmail.com)
 - **Javier Esmorís**: [javier.eb@protonmail.com](mailto:javier.eb@protonmail.com)
 - **Celia Incera**: [celiaincera27@gmail.com](mailto:celiaincera27@gmail.com)
-- **Inés Poses**: [inesposes@gmail.com](mailto:inesposes@gmail.com)
+- **Inés Poses**: [LinkedIn](https://www.linkedin.com/in/in%C3%A9s-poses-gonz%C3%A1lez-73a80a299/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ## Licencia
