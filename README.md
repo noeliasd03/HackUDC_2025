@@ -41,12 +41,15 @@ El objetivo ha sido crear esto implementando las herramientas de trabajo de Deno
 
 ![Demo GIF](styles/demo.gif)
 
+
 ## Equipo 👥
-Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos realizado juntos durante estas 36 horas:)
-  - Noelia Sánchez
-  - Javi Esmorís
-  - Celia Incera
-  - Inés Poses
+Y nada de esto hubiese salido adelante sin el incansable trabajo que hemos realizado juntos durante estas 36 horas :)
+
+- **Noelia Sánchez**: [noeliasd03@gmail.com](mailto:noeliasd03@gmail.com)
+- **Javier Esmorís**: [javier.eb@protonmail.com](mailto:javier.eb@protonmail.com)
+- **Celia Incera**: [celiaincera27@gmail.com](mailto:celiaincera27@gmail.com)
+- **Inés Poses**: [inesposes@gmail.com](mailto:inesposes@gmail.com)
+
 
 ## Licencia
 Este proyecto está licenciado bajo la **GNU General Public License (GPL)**, lo que permite a cualquier persona usar, modificar y distribuir el código, siempre que se mantenga la misma licencia. Asegura la libertad de compartir y mejorar el software para todos.
