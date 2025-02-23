@@ -15,7 +15,7 @@ El objetivo ha sido crear esto implementando las herramientas de trabajo de Deno
   - **Denodo Studio**. Nos permite crear bases de datos en base a los datasets, además de las relaciones entre bases de datos. Las relaciones son útiles para el LLM a la hora de hacer inferencia en las respuestas.
   - **Denodo Catalog**. Permite de una forma sencilla gestionar los datos proporcionados para que fuentes como AI SDK los puedan utilizar.
   - **Denodo AI SDK**. Esta herramienta proporciona agilidad a la hora de transformar los datos (embbedings, BD vectorial) y proporcionarlos al chatbot a través de una API. 
-  - Integración Denodo con **Grafana**
+  - **Grafana**. Hemos integrado el DesignStudio de Denodo con Grafana para poder realizar las gráficas del proyecto. 
   - **Gradio**. Biblioteca de Python para crear interfaces web interactivas y compartir modelos de machine learning fácilmente.
 
 ## Fuentes de datos 📚
