@@ -1,7 +1,9 @@
 import pandas as pd
 
-# Para el procesado de los dataasets deberán ser descargados a través de los enlaces incluídos en el README.md
-# Posteriormente hay que introducirlos en la carpeta 'original'  
+# Para el procesado de los datasets deberán ser descargados a través de los enlaces incluídos en el README.md
+# Dentro de la carpeta data_preprocessing crea una carpeta 'original' y mete ahi los datasets
+# Creata otra que se llame processed
+# Estas rutas son necesarias para importar y exportar correctamente los datasets procesados 
 
 cost_living=pd.read_csv('datasets/original/cost_of_living.csv')
 gpd=pd.read_csv('datasets/original/countries_gdp_hist.csv', delimiter=';')
